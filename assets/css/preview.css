@@ -59,7 +59,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-family: "Noto Sans", "標楷體", "TW-Kai-Ext-B", "TW-Kai-Plus", "TW-Kai";
+	font-family: "Roboto", "標楷體", "TW-Kai-Ext-B", "TW-Kai-Plus", "TW-Kai";
 }
 
 .inputField.center {
